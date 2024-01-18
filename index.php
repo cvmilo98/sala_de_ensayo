@@ -7,8 +7,11 @@
     <title>blog de sala de ensayo</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="style.css">
+    <script src="https://threejs.org/build/three.js"></script>
+    <script src="webgl-script.js"></script>
 </head>
 <body>
+
 
     <header class="header">
 
@@ -20,10 +23,10 @@
             </label>
             <nav class="navbar">
                 <ul>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Servicios</a></li>
-                    <li><a href="#">Contacto</a></li>
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="nosotros.php">Nosotros</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </nav>
 
@@ -132,10 +135,10 @@
 
             <div class="link">
                 <ul>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Servicio</a></li>
-                    <li><a href="#">Contacto</a></li>
+                    <li><a href="index.php">Inicio</a></li>
+                    <li><a href="nosotros.php">Nosotros</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="contacto.php">Contacto</a></li>
                 </ul>
             </div>
 
