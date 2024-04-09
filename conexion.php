@@ -1,5 +1,5 @@
 <?php
 
-$conex = mysqli_connect("localhost", "root", "Pfff.123", "se_agendar")
+$conex = mysqli_connect("localhost", "root", "*****", "se_agendar")
 
 ?>
